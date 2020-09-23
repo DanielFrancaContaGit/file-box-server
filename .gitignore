@@ -106,4 +106,4 @@ dist
 
 yarn.lock
 
-/src/tmp/uplosds/*!.ts
+/src/tmp/uplosds/!.ts
